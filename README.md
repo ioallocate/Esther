@@ -1,6 +1,6 @@
 # Esther
 
-A Next-Generation CXX 20 Hardware Identification Kit based on floating-point computations via CRT.
+A Next-Generation CXX 20 Hardware Identification Kit based on floating-point computations.
 
 ## Exclamation-Mark
 
