@@ -22,8 +22,8 @@ The ```harware_identification()``` combines two hashes into a 64-bit value. The 
 
 ## Add-mark
 
-To use this library just include the header ```esther.hpp```
-and call the corresponding function ```esther::hardware_identification();``` it returns a unsigned 64 bit integer
+To use this library include the folder esther-include directly or take the files seperatly and link the header ```esther.hpp```.
+Now you can call the corresponding function ```esther::hardware_identification();``` it returns a unsigned 64 bit integer
 
 ## Tilde-mark 
 
